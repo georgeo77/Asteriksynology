@@ -1,2 +1,2 @@
 # Asteriksynology
-Prueba de Asterik en Synology
+Prueba de Asterik y asterisnow en Synology en base Centros 7
